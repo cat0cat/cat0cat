@@ -13,6 +13,9 @@ IntelliJ IDEA, Git, Maven, Gradle, JUnit, Mockito, VisualVM, Spring Boot, Docker
 - [Сетевой чат](https://github.com/cat0cat/diploma_networkchat)
 - [Конвертер в текстовую графику](https://github.com/cat0cat/java-diplom)
 
+### Домашние работы:
+
+- [Домашние работы по курсу Java-разработчик](https://github.com/cat0cat/netology_homeworks/blob/main/README.md)
 
 ### Сертификаты Нетологии
 
